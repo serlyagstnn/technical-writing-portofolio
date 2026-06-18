@@ -1,2 +1,2 @@
 # technical-writing-portofolio
-kumpulan project dokumentasi teknis
+portofolio for technical writer career transition
